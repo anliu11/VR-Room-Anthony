@@ -6014,6 +6014,37 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.1550819
   m_Center: {x: -0.017775308, y: 0, z: -0.08052611}
+--- !u!1 &1375207566 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4608049895260404343, guid: ea01289ad12c363458e3a12b1e6afdf2, type: 3}
+  m_PrefabInstance: {fileID: 75276423}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1375207571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375207566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0efd09f44c334cc45abf43175b085d56, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  otherMaterial: {fileID: 2100000, guid: f7804b0b3784fa943a415ff6cf3e57f7, type: 2}
+--- !u!114 &1375207572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375207566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17d39f7f6aa98a142b9a9cd6b84c1f49, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 0}
 --- !u!1001 &1432260185
 PrefabInstance:
   m_ObjectHideFlags: 0
